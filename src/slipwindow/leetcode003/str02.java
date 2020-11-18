@@ -1,4 +1,4 @@
-package leetcode003;
+package slipwindow.leetcode003;
 
 import java.util.HashMap;
 import java.util.Map;

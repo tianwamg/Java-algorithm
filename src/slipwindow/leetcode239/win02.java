@@ -1,4 +1,4 @@
-package leetcode239;
+package slipwindow.leetcode239;
 
 import java.util.LinkedList;
 
