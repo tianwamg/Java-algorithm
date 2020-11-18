@@ -5,7 +5,7 @@ import java.util.LinkedList;
 /**
  * 双端队列
  */
-public class winPro {
+public class win02 {
 
     public static void main(String[] args) {
 
